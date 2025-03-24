@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PatientsSQL", "PatientsSQL\PatientsSQL.pyproj", "{99C9FDEC-8FF0-44B7-9603-3029E648EFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C9FDEC-8FF0-44B7-9603-3029E648EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C9FDEC-8FF0-44B7-9603-3029E648EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF06FA7-8100-4EA3-AC84-CBC2AB7507BA}
+	EndGlobalSection
+EndGlobal
